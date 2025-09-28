@@ -1,0 +1,5 @@
+We have a problem: 2025-09-28 17:12:00,629 : DEBUG : debug
+We have a problem: 2025-09-28 17:12:00,629 : INFO : info
+We have a problem: 2025-09-28 17:12:00,629 : WARNING : warning
+We have a problem: 2025-09-28 17:12:00,629 : ERROR : error
+We have a problem: 2025-09-28 17:12:00,629 : CRITICAL : critical
